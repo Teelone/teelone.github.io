@@ -1,11 +1,10 @@
 # TUTO INSTALLATION KODI (~ 20min)
+## (Si Kodi déjà installé, desinstaller pour réinstaller et partir sur une version propre)
 #### *`Sur BOX ANDROID, il faut :`*
 - Installer l'app **DOWNLOADER**
 - Via **DOWNLOADER** > entrer ces chiffres : **184453** 
 
 Une fois les chiffres rentrés, il faut télécharger ces liens ci-dessous, sur ***TV Android*** :
-
-*(Si Kodi déjà installé, desinstaller pour réinstaller et partir sur une version propre)*
 
  - Kodi v20.1 (Nexus) : **[Kodi-20.1-Nexus-armeabi-v7a.apk](https://mirrors.kodi.tv/releases/android/arm/kodi-20.1-Nexus-armeabi-v7a.apk?https=11)**
  - Gestionnaire de fichier *'X-Plore'* : **[X-plore v4.31.00 Mod Patched.apk](X-plore%20v4.31.00%20Mod%20Patched.apk)**
@@ -39,8 +38,8 @@ ___
 
 3. **Appui long** sur **RETOUR > 'Favoris'**
 	- Cliquer sur **vStream**
-	- 'Mes comptes' > Trakt > '***Cliquez ici, pour vous connecter***'
-	- *Une fois le code rentré dans https://trakt.tv/activate, cliquer sur 'Oui'.*
+	- 'Mes comptes' > 'Trakt' > '***Cliquez ici, pour vous connecter***'
+	- ***Une fois le code rentré*** *dans https://trakt.tv/activate, cliquer sur* ***'Oui'.***
 
 4. À l'accueil > **appui long** sur **RETOUR** de la **télécommande > 'Extensions' > 'Mes extensions' > 'Extensions Vidéos'**
 	- **Appui long** sur **TheMovieDb Helper > 'Paramètres'** 
