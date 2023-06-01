@@ -6,8 +6,7 @@
  <br><br>
 
 Une fois **Kodi** et **X-Plore** installés, et la **config skin** téléchargée :<br>
-- **Aller** sur **téléphone ou PC**, sur https://rentry.org/tuto_kodi_simon pour **suivre le tuto**.
-
+- **Aller** sur **téléphone ou PC**, sur [https://rentry.org/tuto_kodi_simon](https://rentry.org/tuto_kodi_simon#une-fois-kodi-et-x-plore-install%C3%A9s-et-la-config-skin-t%C3%A9l%C3%A9charg%C3%A9e) pour **suivre le tuto**.
 
 
 
