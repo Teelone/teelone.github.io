@@ -10,6 +10,7 @@ Une fois les chiffres rentrés, il faut télécharger ces liens ci-dessous, sur 
  - Config skin Arctic Horizon 2 Kodi : **[Kodi - AH2 - 20230601.zip](https://dl.dropboxusercontent.com/s/x7osukesynd6pib/Kodi%20-%20AH2%20-%2020230601.zip?dl=0)**
  
 ___
+
 #### *`Une fois Kodi et X-Plore installés, et la config skin téléchargée :`*
 - **Lancer** une première fois **Kodi puis fermer le**
 - **Lancer X-Plore**, aller dans **Menu > Configuration > Afficher les fichiers cachés**
@@ -21,7 +22,9 @@ ___
 	6. Dans le **menu central**, appuyer sur **'Copier'** > **'OK'** et à la fin du transfert > **'Appliquer à tous' > 'ÉCRASER'**
 	   - **En attendant** que le transfert se finisse; si pas déjà fait **se créer un compte sur [https://trakt.tv/auth/join](https://trakt.tv/auth/join)**<br>
 		(Une [FAQ](https://rentry.org/FAQ_U2PPLAY#%C3%A0-quoi-sert-de-se-connecter-sur-trakt) est disponible, pour savoir à quoi sert de créer un compte Trakt)
+
 ___
+
 #### *`Une fois le transfert fini :`*
 1. **Quitter X-Plore** et **lancer Kodi** :
 	- S'authentifier sur la demande **d'authentification de TRAKT** avec le compte (fraichement) créé
