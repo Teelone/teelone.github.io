@@ -1,5 +1,5 @@
 # TUTO INSTALLATION KODI (~ 20min)
-## (Si Kodi déjà installé, desinstaller pour réinstaller et partir sur une version propre)
+## Si Kodi déjà installé, desinstaller pour réinstaller une verison propre pour gagner en rapidité
 #### *`Sur BOX ANDROID, il faut :`*
 - Installer l'app **DOWNLOADER**
 - Via **DOWNLOADER** > entrer ces chiffres : **184453** 
