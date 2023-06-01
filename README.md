@@ -7,7 +7,7 @@ Une fois les chiffres rentrés, il faut télécharger ces liens ci-dessous, sur 
 
  - Kodi v20.1 (Nexus) : **[Kodi-20.1-Nexus-armeabi-v7a.apk](https://mirrors.kodi.tv/releases/android/arm/kodi-20.1-Nexus-armeabi-v7a.apk?https=11)**
  - Gestionnaire de fichier *'X-Plore'* : **[X-plore v4.31.00 Mod Patched.apk](X-plore%20v4.31.00%20Mod%20Patched.apk)**
- - Config skin Arctic Horizon 2 Kodi : **[Kodi - AH2 - 20230531.zip](https://dl.dropboxusercontent.com/s/yu8wlbdz6y9c6bp/Kodi%20-%20AH2%20-%2020230531.zip?dl=0)**
+ - Config skin Arctic Horizon 2 Kodi : **[Kodi - AH2 - 20230601.zip](https://dl.dropboxusercontent.com/s/x7osukesynd6pib/Kodi%20-%20AH2%20-%2020230601.zip?dl=0)**
 ___
 #### *`Une fois Kodi et X-Plore installés, et la config skin téléchargée :`*
 - **Lancer** une première fois **Kodi puis fermer le**
