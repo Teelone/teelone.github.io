@@ -37,8 +37,8 @@ ___
 
 3. **Appui long** sur **RETOUR > 'Favoris'**
 	- Cliquer sur **vStream**
-	- **'Mes comptes' > Trakt > '***Cliquez ici, pour vous connecter***'**
-	!!! Une fois le code rentré dans https://trakt.tv/activate, cliquer sur 'Oui'.
+	- **'Mes comptes' > Trakt > '***Cliquez ici, pour vous connecter***'
+	- *Une fois le code rentré dans https://trakt.tv/activate, cliquer sur 'Oui'.*
 
 4. À l'accueil > **appui long** sur **RETOUR** de la **télécommande > 'Extensions' > 'Mes extensions' > 'Extensions Vidéos'**
 	- **Appui long** sur **TheMovieDb Helper > 'Paramètres'** 
