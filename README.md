@@ -5,6 +5,8 @@
 
 Une fois les chiffres rentrés, il faut télécharger ces liens ci-dessous, sur ***TV Android*** :
 
+*(Si Kodi déjà installé, desinstaller pour réinstaller et partir sur une version propre)*
+
  - Kodi v20.1 (Nexus) : **[Kodi-20.1-Nexus-armeabi-v7a.apk](https://mirrors.kodi.tv/releases/android/arm/kodi-20.1-Nexus-armeabi-v7a.apk?https=11)**
  - Gestionnaire de fichier *'X-Plore'* : **[X-plore v4.31.00 Mod Patched.apk](X-plore%20v4.31.00%20Mod%20Patched.apk)**
  - Config skin Arctic Horizon 2 Kodi : **[Kodi - AH2 - 20230601.zip](https://dl.dropboxusercontent.com/s/x7osukesynd6pib/Kodi%20-%20AH2%20-%2020230601.zip?dl=0)**
@@ -37,7 +39,7 @@ ___
 
 3. **Appui long** sur **RETOUR > 'Favoris'**
 	- Cliquer sur **vStream**
-	- **'Mes comptes' > Trakt > '***Cliquez ici, pour vous connecter***'
+	- 'Mes comptes' > Trakt > '***Cliquez ici, pour vous connecter***'
 	- *Une fois le code rentré dans https://trakt.tv/activate, cliquer sur 'Oui'.*
 
 4. À l'accueil > **appui long** sur **RETOUR** de la **télécommande > 'Extensions' > 'Mes extensions' > 'Extensions Vidéos'**
