@@ -12,8 +12,8 @@ Une fois les chiffres rentrés, il faut télécharger ces liens ci-dessous, sur 
 ___
 
 #### *`Une fois Kodi et X-Plore installés, et la config skin téléchargée :`*
-- **Lancer** une première fois **Kodi puis fermer le**
-- **Lancer X-Plore**, aller dans **Menu > Configuration > Afficher les fichiers cachés**
+- **Lancer** une première fois **Kodi** (autoriser l'accès au disque sur **'TOUJOURS'**) puis fermer le
+- **Lancer X-Plore** (autoriser l'accès au disque sur **'TOUJOURS'**) aller dans **Menu > Configuration > Afficher les fichiers cachés**
 	1. Dans la partie **droite**, aller dans **'Espace de stockage interne partagé' > Android/data/org.xbmc.kodi/files/.kodi/**
 	2. Dans la partie **gauche**, aller dans **'Espace de stockage interne partagé' > Download/Downloader/** *(là où se trouve 'Kodi - AH2 - 2023XXXX.zip')*
 	3. **Cliquer** sur **Kodi - AH2 - 2023XXXX.zip**
