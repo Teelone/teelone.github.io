@@ -12,8 +12,6 @@
 - Installer l'application <b><i>'Send files to TV'</b></i> sur téléphone Android et sur la box Android, via le Play Store, comme une application normale<br>
 - Via l'application <b><i>'Send files to TV'</b></i>, transferer l'apk <b>'Downloader'</b> sur la box
 </details>
-dqsdd
-___
 
 - Dès que l'app **Downloader** est installée, ouvrir l'app et entrer ces chiffres : **184453**
 
