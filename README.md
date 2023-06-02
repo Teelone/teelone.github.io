@@ -11,7 +11,7 @@
 
 ___
 
-#### *`Une fois que Downloader est bien installée`*: 
+#### *`Une fois Downloader installée`*: 
 - Ouvrir l'app et entrer ces chiffres : **184453** <br>
 pour atterir sur cette même page et commencer à télécharger les liens ci-dessous sur ***TV Android*** :
 
@@ -21,7 +21,7 @@ pour atterir sur cette même page et commencer à télécharger les liens ci-des
 
 ___
 
-#### *`Une fois Kodi et X-Plore installés, et la config skin téléchargée :`*
+#### *`Une fois Kodi et X-Plore installées, et la config skin téléchargée :`*
 - **Lancer** une première fois **Kodi** (autoriser l'accès au disque sur **'TOUJOURS'**) puis fermer le, **avec le bouton d'alimentation de Kodi**
 - **Lancer X-Plore** (autoriser l'accès au disque sur **'TOUJOURS'**) aller dans **Menu > Configuration > Afficher les fichiers cachés**
 	1. Dans la partie **droite**, aller dans **'Espace de stockage interne partagé' > Android/data/org.xbmc.kodi/files/.kodi/**
