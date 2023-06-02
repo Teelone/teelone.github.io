@@ -1,25 +1,23 @@
 # TUTO INSTALLATION KODI (~ 20min)
 #### Si Kodi déjà installé, desinstaller pour réinstaller une verison propre pour gagner en rapidité
 
-<details>
-<summary><h2>Sur BOX FIRE TV, il faut :</h2></summary>
+#### *`Sur BOX FIRE TV, il faut :`*
 - Installer l'app <b>'Downloader'</b> via la box simplement
-</details>
 
-<details>
-<summary><h2>Sur BOX ANDROID TV (Mi Box, Chromecast, Nvidia Shield, etc...), il faut :</h2></summary>
-- Télécharger l'APK <a href="downloader.apk">Downloader</a> sur téléphone Android<br>
-- Installer l'application <b><i>'Send files to TV'</b></i> sur téléphone Android et sur la box Android, via le Play Store, comme une application normale<br>
-- Via l'application <b><i>'Send files to TV'</b></i>, transferer l'apk <b>'Downloader'</b> sur la box
-</details>
+#### *`Sur BOX ANDROID TV (Mi Box, Chromecast, Nvidia Shield, etc...), il faut :`*
+- Télécharger l'APK [Downloader](downloader.apk) sur téléphone Android<br>
+- Installer l'application ***'Send files to TV'*** sur téléphone Android et sur la box Android, via le Play Store, comme une application normale<br>
+- Via l'application ***'Send files to TV'***, transferer l'apk **'Downloader'** sur la box
 
-- Dès que l'app **Downloader** est installée, ouvrir l'app et entrer ces chiffres : **184453**
+___
 
-Une fois les chiffres rentrés, on tombe sur cette même page et il faut télécharger ces liens ci-dessous, sur ***TV Android*** :
+#### *`Une fois que Downloader est bien installée`*: 
+- Ouvrir l'app et entrer ces chiffres : **184453** <br>
+pour atterir sur cette même page et commencer à télécharger les liens ci-dessous sur ***TV Android*** :
 
- - Kodi v20.1 (Nexus) : **[Kodi-20.1-Nexus-armeabi-v7a.apk](https://mirrors.kodi.tv/releases/android/arm/kodi-20.1-Nexus-armeabi-v7a.apk?https=11)**
- - Gestionnaire de fichier *'X-Plore'* : **[X-plore v4.31.00 Mod Patched.apk](X-plore%20v4.31.00%20Mod%20Patched.apk)**
- - Config skin Arctic Horizon 2 Kodi : **[Kodi - AH2 - 20230602.zip](https://dl.dropboxusercontent.com/s/vi4nezlhzzppmu6/Kodi%20-%20AH2%20-%2020230602.zip?dl=0)**
+	 - Kodi v20.1 (Nexus) : **[Kodi-20.1-Nexus-armeabi-v7a.apk](https://mirrors.kodi.tv/releases/android/arm/kodi-20.1-Nexus-armeabi-v7a.apk?https=11)**
+	 - Gestionnaire de fichier *'X-Plore'* : **[X-plore v4.31.00 Mod Patched.apk](X-plore%20v4.31.00%20Mod%20Patched.apk)**
+	 - Config skin Arctic Horizon 2 Kodi : **[Kodi - AH2 - 20230602.zip](https://dl.dropboxusercontent.com/s/vi4nezlhzzppmu6/Kodi%20-%20AH2%20-%2020230602.zip?dl=0)**
 
 ___
 
