@@ -5,7 +5,7 @@
 - Installer l'app <b>'Downloader'</b> via la box simplement
 
 #### *`Sur BOX ANDROID TV (Mi Box, Chromecast, Nvidia Shield, etc...), il faut :`*
-- Télécharger l'APK [Downloader](downloader.apk) sur téléphone Android<br>
+- Télécharger l'APK **[Downloader](downloader.apk)** sur téléphone Android<br>
 - Installer l'application ***'Send files to TV'*** sur téléphone Android et sur la box Android, via le Play Store, comme une application normale<br>
 - Via l'application ***'Send files to TV'***, transferer l'apk **'Downloader'** sur la box
 
@@ -17,7 +17,7 @@ pour atterir sur cette même page et commencer à télécharger les liens ci-des
 
 	 - Kodi v20.1 (Nexus) : **[Kodi-20.1-Nexus-armeabi-v7a.apk](https://mirrors.kodi.tv/releases/android/arm/kodi-20.1-Nexus-armeabi-v7a.apk?https=11)**
 	 - Gestionnaire de fichier *'X-Plore'* : **[X-plore v4.31.00 Mod Patched.apk](X-plore%20v4.31.00%20Mod%20Patched.apk)**
-	 - Config skin Arctic Horizon 2 Kodi : **[Kodi - AH2 - 20230602.zip](https://dl.dropboxusercontent.com/s/vi4nezlhzzppmu6/Kodi%20-%20AH2%20-%2020230602.zip?dl=0)**
+	 - Config skin Arctic Horizon 2 Kodi : **[Kodi - AH2 - 20230602.zip](https://dl.dropboxusercontent.com/s/vi4nezlhzzppmu6/Kodi%20-%20AH2%20-%2020230602.zip?dl=0)** 
 
 ___
 
