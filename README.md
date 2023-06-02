@@ -1,10 +1,21 @@
 # TUTO INSTALLATION KODI (~ 20min)
 ## Si Kodi déjà installé, desinstaller pour réinstaller une verison propre pour gagner en rapidité
-#### *`Sur BOX ANDROID, il faut :`*
-- Installer l'app **DOWNLOADER**
-- Via **DOWNLOADER** > entrer ces chiffres : **184453** 
+<details>
+<summary> <h2>Sur BOX FIRE TV, il faut :</h2> </summary>
+- Installer l'app <b>'Downloader'</b> via la box simplement
+</details>
+<details>
+<summary> <h2>Sur BOX ANDROID TV (Mi Box, Chromecast, Nvidia Shield, etc...) il faut :</h2> </summary>
+- Télécharger l'APK <a href="downloader.apk">Downloader</a> sur téléphone<br>
+- Installer l'application <b><i>'Send files to TV'</b></i> sur téléphone Android et sur la box Android, via le Play Store, comme une application normale<br>
+- Via l'application <b><i>'Send files to TV'</b></i>, transferer l'apk <b>'Downloader'</b> sur la box
+</details>
 
-Une fois les chiffres rentrés, il faut télécharger ces liens ci-dessous, sur ***TV Android*** :
+___
+
+- Dès que l'app **Downloader** est installée, ouvrir l'app et entrer ces chiffres : **184453**
+
+Une fois les chiffres rentrés, on tombe sur cette même page et il faut télécharger ces liens ci-dessous, sur ***TV Android*** :
 
  - Kodi v20.1 (Nexus) : **[Kodi-20.1-Nexus-armeabi-v7a.apk](https://mirrors.kodi.tv/releases/android/arm/kodi-20.1-Nexus-armeabi-v7a.apk?https=11)**
  - Gestionnaire de fichier *'X-Plore'* : **[X-plore v4.31.00 Mod Patched.apk](X-plore%20v4.31.00%20Mod%20Patched.apk)**
