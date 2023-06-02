@@ -1,5 +1,5 @@
 # TUTO INSTALLATION KODI (~ 20min)
-## Si Kodi déjà installé, desinstaller pour réinstaller une verison propre pour gagner en rapidité
+#### Si Kodi déjà installé, desinstaller pour réinstaller une verison propre pour gagner en rapidité
 <details>
 <summary> <h2>Sur BOX FIRE TV, il faut :</h2> </summary>
 - Installer l'app <b>'Downloader'</b> via la box simplement
