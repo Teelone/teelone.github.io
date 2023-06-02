@@ -1,11 +1,13 @@
 # TUTO INSTALLATION KODI (~ 20min)
 #### Si Kodi déjà installé, desinstaller pour réinstaller une verison propre pour gagner en rapidité
+
 <details>
-<summary> <h2>Sur BOX FIRE TV, il faut :</h2> </summary>
+<summary><h2>Sur BOX FIRE TV, il faut :</h2></summary>
 - Installer l'app <b>'Downloader'</b> via la box simplement
 </details>
+
 <details>
-<summary> <h2>Sur BOX ANDROID TV (Mi Box, Chromecast, Nvidia Shield, etc...), il faut :</h2> </summary>
+<summary><h2>Sur BOX ANDROID TV (Mi Box, Chromecast, Nvidia Shield, etc...), il faut :</h2></summary>
 - Télécharger l'APK <a href="downloader.apk">Downloader</a> sur téléphone Android<br>
 - Installer l'application <b><i>'Send files to TV'</b></i> sur téléphone Android et sur la box Android, via le Play Store, comme une application normale<br>
 - Via l'application <b><i>'Send files to TV'</b></i>, transferer l'apk <b>'Downloader'</b> sur la box
