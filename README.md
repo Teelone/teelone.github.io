@@ -35,7 +35,7 @@ ___
 	5. **Marque**, **seulement** dans la partie **gauche**, les dossiers **addons** et **userdata**
 	6. Dans le **menu central**, appuyer sur **'Copier'** > **'OK'** et à la fin du transfert > **'Appliquer à tous' > 'ÉCRASER'**
 	   - **En attendant** que le transfert se finisse; si pas déjà fait **se créer un compte sur [https://trakt.tv/auth/join](https://trakt.tv/auth/join)**<br>
-		(Une [FAQ](https://rentry.org/FAQ_U2PPLAY#%C3%A0-quoi-sert-de-se-connecter-sur-trakt) est disponible, pour savoir à quoi sert de créer un compte Trakt)
+		(Une [FAQ](https://rentry.org/FAQ_KODI_Simon) est disponible, pour savoir à quoi sert de créer un compte Trakt)
 
 ___
 
