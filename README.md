@@ -17,7 +17,7 @@ pour atterir sur cette même page et commencer à télécharger les liens ci-des
 
 	 - Kodi v20.1 (Nexus) : **[Kodi-20.1-Nexus-armeabi-v7a.apk](https://mirrors.kodi.tv/releases/android/arm/kodi-20.1-Nexus-armeabi-v7a.apk?https=11)**
 	 - Gestionnaire de fichier *'X-Plore'* : **[X-plore v4.31.00 Mod Patched.apk](X-plore%20v4.31.00%20Mod%20Patched.apk)**
-	 - Config skin Arctic Horizon 2 Kodi : **[Kodi - AH2 - 20230602.zip](https://dl.dropboxusercontent.com/s/vi4nezlhzzppmu6/Kodi%20-%20AH2%20-%2020230602.zip?dl=0)** 
+	 - Config skin Arctic Horizon 2 Kodi : **[Kodi - AH2 - 20230605.zip](https:///dl.dropboxusercontent.com/s/hzq3cukk702ohpd/Kodi%20-%20AH2%20-%2020230605.zip?dl=0)** 
 
 ___
 
