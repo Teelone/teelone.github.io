@@ -15,7 +15,7 @@ ___
 - Ouvrir l'app et entrer ces chiffres : **184453** <br>
 pour atterir sur cette même page et commencer à télécharger les liens ci-dessous sur ***TV Android*** :
 
-	 - Kodi v20.1 (Nexus) : **[Kodi-20.2-Nexus-armeabi-v7a.apk](https://mirrors.kodi.tv/releases/android/arm/kodi-20.2-Nexus-armeabi-v7a.apk?https=1)**
+	 - Kodi v20.2 (Nexus) : **[Kodi-20.2-Nexus-armeabi-v7a.apk](https://mirrors.kodi.tv/releases/android/arm/kodi-20.2-Nexus-armeabi-v7a.apk?https=1)**
 	 - Gestionnaire de fichier *'X-Plore'* : **[X-plore v4.31.00 Mod Patched.apk](X-plore%20v4.31.00%20Mod%20Patched.apk)**
 	 - Config Kodi skin Arctic Horizon 2 (w/ TV) : **[Kodi - AH2 - 20230613.zip](https://www.dl.dropboxusercontent.com/s/nvpaq7iih5x25yb/Kodi%20-%20AH2%20-%2020230613.zip?dl=0)**  
 
