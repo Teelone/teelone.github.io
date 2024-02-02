@@ -15,9 +15,9 @@ ___
 - Ouvrir l'app et entrer ces chiffres : **184453** <br>
 pour atterir sur cette même page et commencer à télécharger les liens ci-dessous sur ***TV Android*** :
 
-	 - Kodi v20.2 (Nexus) : **[Kodi-20.2-Nexus-armeabi-v7a.apk](https://mirrors.kodi.tv/releases/android/arm/kodi-20.2-Nexus-armeabi-v7a.apk?https=1)**
+	 - Kodi v20.2 (Nexus) : **[Kodi-20.3-Nexus-armeabi-v7a.apk](https://mirrors.kodi.tv/releases/android/arm/kodi-20.3-Nexus-armeabi-v7a.apk?https=1)**
 	 - Gestionnaire de fichier *'X-Plore'* : **[X-Plore File Manager_v4.33.05.apk](X-Plore%20File%20Manager_v4.33.05.apk)**
-	 - Config Kodi skin Arctic Horizon 2 (w/ TV) : **[Kodi - AH2 - 20230613.zip](https://www.dl.dropboxusercontent.com/s/nvpaq7iih5x25yb/Kodi%20-%20AH2%20-%2020230613.zip?dl=0)**  
+	 - Config Kodi skin Arctic Horizon 2 (w/ TV) : **[Kodi - AH2 - 20230613.zip](https://www.dl.dropboxusercontent.com/s/twcwoq8q82oill0d0sd0g/Kodi-AH2-20240202.zip?rlkey=uyrrsubbq5kbbyit9b18742hv)**  
 
 ___
 
@@ -26,7 +26,7 @@ ___
 - **Lancer X-Plore** (autoriser l'accès au disque sur **'TOUJOURS'**) aller dans **Menu > Configuration > Afficher les fichiers cachés**
 	1. Dans la partie **droite**, aller dans **'Espace de stockage interne partagé' > Android/data/org.xbmc.kodi/files/.kodi/**
 	2. Dans la partie **gauche**, aller dans **'Espace de stockage interne partagé' > Download/Downloader/** *(là où se trouve 'Kodi - AH2 - 2023XXXX.zip')*
-	3. **Cliquer** sur **Kodi - AH2 - 2023XXXX.zip**
+	3. **Cliquer** sur **Kodi - AH2 - 2024XXXX.zip**
 	4. **Appui long** sur **ENTRÉE** de la **télécommande > 'Marquer des fichiers'**
 	5. **Marque**, **seulement** dans la partie **gauche**, les dossiers **addons** et **userdata**
 	6. Dans le **menu central**, appuyer sur **'Copier'** > **'OK'** et à la fin du transfert > **'Appliquer à tous' > 'ÉCRASER'**
@@ -41,7 +41,7 @@ ___
 2. À l'accueil > **appui long** sur **RETOUR** de la **télécommande > 'Extensions' > 'Mes extensions' > 'Extensions Vidéos'**
 	- **Appui long** sur **vStream > 'Paramètres'** 
 	- Onglet **Premium/Login** :
-	- Rentrer son **Token**
+	- Rentrer son **Token Alldebrid**
 	- '**OK**' pour valider les settings.
 
 3. **Appui long** sur **RETOUR > 'Favoris'**
